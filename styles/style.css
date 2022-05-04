@@ -278,8 +278,7 @@
   height: 877px;
   position: absolute;
   top: 0;
-  right: 0;
-  margin-right: -210px;
+  right: -210px;
 }
 
 /* Footer */
